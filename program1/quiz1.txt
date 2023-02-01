@@ -1,0 +1,21 @@
+a well-defined problem has:
+a transition model that describes what state results from applying each of the agent's actions
+	the effects of the agent's actions and how the world evolves independently of the agent
+a set of initial states
+a cost function
+a set of goal states
+
+the key difference between tree search and graph search are not: 
+graph search allows for redundant paths
+
+criteria for evaluation uninformed search:
+completeness 
+is the algorithm guaranteed to find a solution when there is one? 
+	*when an algorithm is complete, it means that if at least one solution exists then the algorithm will find 
+	a solution in a finite amount of time*
+optimality
+does the algorithm find the optimal solution?
+time complexity: the number of nodes generated during search
+how long does it take to find a solution? 
+space complexity: the maximum number of nodes stored in memory
+how much memory is needed to perform the search?

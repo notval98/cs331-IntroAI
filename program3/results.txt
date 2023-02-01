@@ -1,0 +1,141 @@
+
+
+testing on training data
+misclassified ['will', 'be', 'back', 'again']: actual: 0, expected: 1
+misclassified ['they', 'know', 'how', 'to', 'make', 'them', 'here']: actual: 0, expected: 1
+misclassified ['i', 'would', 'definitely', 'recommend', 'the', 'wings', 'as', 'well', 'as', 'the', 'pizza']: actual: 0, expected: 1
+misclassified ['i', 'did', 'not', 'expect', 'this', 'to', 'be', 'so', 'good']: actual: 0, expected: 1
+misclassified ['the', 'only', 'downside', 'is', 'the', 'service']: actual: 1, expected: 0
+misclassified ['this', 'is', 'a', 'disgrace']: actual: 1, expected: 0
+misclassified ['left', 'very', 'frustrated']: actual: 1, expected: 0
+misclassified ['ill', 'definitely', 'be', 'in', 'soon', 'again']: actual: 0, expected: 1
+misclassified ['i', 'will', 'be', 'back', 'many', 'times', 'soon']: actual: 0, expected: 1
+misclassified ['if', 'you', 'look', 'for', 'authentic', 'thai', 'food', 'go', 'else', 'where']: actual: 1, expected: 0
+misclassified ['we', 'made', 'the', 'drive', 'all', 'the', 'way', 'from', 'north', 'scottsdale', 'and', 'i', 'was', 'not', 'one', 'bit', 'disappointed']: actual: 0, expected: 1
+misclassified ['i', 'cant', 'wait', 'to', 'go', 'back']: actual: 0, expected: 1
+misclassified ['2', 'thumbs', 'up']: actual: 0, expected: 1
+misclassified ['never', 'had', 'anything', 'to', 'complain', 'about', 'here']: actual: 0, expected: 1
+misclassified ['the', 'service', 'here', 'is', 'fair', 'at', 'best']: actual: 1, expected: 0
+misclassified ['now', 'the', 'burgers', 'arent', 'as', 'good', 'the', 'pizza', 'which', 'used', 'to', 'be', 'amazing', 'is', 'doughy', 'and', 'flavorless']: actual: 1, expected: 0
+
+
+****************************************
+* RESULTS:
+*     Correct:   483
+*     Incorrect: 16
+*
+*     Accuracy:  0.9679358717434869
+****************************************
+
+
+testing on testing data
+misclassified ['this', 'was', 'like', 'the', 'final', 'blow']: actual: 1, expected: 0
+misclassified ['i', 'found', 'this', 'place', 'by', 'accident', 'and', 'i', 'could', 'not', 'be', 'happier']: actual: 0, expected: 1
+misclassified ['seems', 'like', 'a', 'good', 'quick', 'place', 'to', 'grab', 'a', 'bite', 'of', 'some', 'familiar', 'pub', 'food', 'but', 'do', 'yourself', 'a', 'favor', 'and', 'look', 'elsewhere']: actual: 1, expected: 0
+misclassified ['service', 'sucks']: actual: 1, expected: 0
+misclassified ['the', 'portion', 'was', 'huge']: actual: 0, expected: 1
+misclassified ['the', 'heart', 'attack', 'grill', 'in', 'downtown', 'vegas', 'is', 'an', 'absolutely', 'flatlined', 'excuse', 'for', 'a', 'restaurant']: actual: 1, expected: 0
+misclassified ['the', 'salad', 'had', 'just', 'the', 'right', 'amount', 'of', 'sauce', 'to', 'not', 'over', 'power', 'the', 'scallop', 'which', 'was', 'perfectly', 'cooked']: actual: 0, expected: 1
+misclassified ['the', 'deal', 'included', '5', 'tastings', 'and', '2', 'drinks', 'and', 'jeff', 'went', 'above', 'and', 'beyond', 'what', 'we', 'expected']: actual: 0, expected: 1
+misclassified ['the', 'pan', 'cakes', 'everyone', 'are', 'raving', 'about', 'taste', 'like', 'a', 'sugary', 'disaster', 'tailored', 'to', 'the', 'palate', 'of', 'a', 'six', 'year', 'old']: actual: 1, expected: 0
+misclassified ['this', 'is', 'one', 'of', 'the', 'better', 'buffets', 'that', 'i', 'have', 'been', 'to']: actual: 0, expected: 1
+misclassified ['check', 'it', 'out']: actual: 0, expected: 1
+misclassified ['ive', 'had', 'better', 'atmosphere']: actual: 1, expected: 0
+misclassified ['my', 'husband', 'and', 'i', 'ate', 'lunch', 'here', 'and', 'were', 'very', 'disappointed', 'with', 'the', 'food', 'and', 'service']: actual: 1, expected: 0
+misclassified ['this', 'really', 'is', 'how', 'vegas', 'fine', 'dining', 'used', 'to', 'be', 'right', 'down', 'to', 'the', 'menus', 'handed', 'to', 'the', 'ladies', 'that', 'have', 'no', 'prices', 'listed']: actual: 0, expected: 1
+misclassified ['the', 'service', 'here', 'leaves', 'a', 'lot', 'to', 'be', 'desired']: actual: 1, expected: 0
+misclassified ['love', 'this', 'place', 'hits', 'the', 'spot', 'when', 'i', 'want', 'something', 'healthy', 'but', 'not', 'lacking', 'in', 'quantity', 'or', 'flavor']: actual: 0, expected: 1
+misclassified ['when', 'my', 'order', 'arrived', 'one', 'of', 'the', 'gyros', 'was', 'missing']: actual: 1, expected: 0
+misclassified ['the', 'warm', 'beer', 'didnt', 'help']: actual: 1, expected: 0
+misclassified ['ive', 'lived', 'here', 'since', '1979', 'and', 'this', 'was', 'the', 'first', 'and', 'last', 'time', 'ive', 'stepped', 'foot', 'into', 'this', 'place']: actual: 1, expected: 0
+misclassified ['must', 'have', 'been', 'an', 'off', 'night', 'at', 'this', 'place']: actual: 1, expected: 0
+misclassified ['extremely', 'tasty']: actual: 0, expected: 1
+misclassified ['the', 'folks', 'at', 'otto', 'always', 'make', 'us', 'feel', 'so', 'welcome', 'and', 'special']: actual: 0, expected: 1
+misclassified ['the', 'descriptions', 'said', 'yum', 'yum', 'sauce', 'and', 'another', 'said', 'eel', 'sauce', '', 'yet', 'another', 'said', 'spicy', 'mayo', 'well', 'none', 'of', 'the', 'rolls', 'had', 'sauces', 'on', 'them']: actual: 1, expected: 0
+misclassified ['much', 'better', 'than', 'the', 'other', 'ayce', 'sushi', 'place', 'i', 'went', 'to', 'in', 'vegas']: actual: 0, expected: 1
+misclassified ['the', 'goat', 'taco', 'didnt', 'skimp', 'on', 'the', 'meat', 'and', 'wow', 'what', 'flavor']: actual: 0, expected: 1
+misclassified ['i', 'went', 'to', 'bachi', 'burger', 'on', 'a', 'friends', 'recommendation', 'and', 'was', 'not', 'disappointed']: actual: 0, expected: 1
+misclassified ['this', 'place', 'is', 'not', 'quality', 'sushi', 'it', 'is', 'not', 'a', 'quality', 'restaurant']: actual: 1, expected: 0
+misclassified ['please', 'stay', 'away', 'from', 'the', 'shrimp', 'stir', 'fried', 'noodles']: actual: 1, expected: 0
+misclassified ['you', 'wont', 'be', 'disappointed']: actual: 0, expected: 1
+misclassified ['there', 'is', 'nothing', 'authentic', 'about', 'this', 'place']: actual: 1, expected: 0
+misclassified ['it', 'shouldnt', 'take', '30', 'min', 'for', 'pancakes', 'and', 'eggs']: actual: 1, expected: 0
+misclassified ['sadly', 'gordon', 'ramseys', 'steak', 'is', 'a', 'place', 'we', 'shall', 'sharply', 'avoid', 'during', 'our', 'next', 'trip', 'to', 'vegas']: actual: 1, expected: 0
+misclassified ['best', 'fish', 'ive', 'ever', 'had', 'in', 'my', 'life']: actual: 0, expected: 1
+misclassified ['this', 'place', 'deserves', 'one', 'star', 'and', '90', 'has', 'to', 'do', 'with', 'the', 'food']: actual: 1, expected: 0
+misclassified ['def', 'coming', 'back', 'to', 'bowl', 'next', 'time']: actual: 0, expected: 1
+misclassified ['to', 'summarize', 'the', 'food', 'was', 'incredible', 'nay', 'transcendant', 'but', 'nothing', 'brings', 'me', 'joy', 'quite', 'like', 'the', 'memory', 'of', 'the', 'pneumatic', 'condiment', 'dispenser']: actual: 0, expected: 1
+misclassified ['this', 'one', 'is', 'simply', 'a', 'disappointment']: actual: 1, expected: 0
+misclassified ['i', 'dont', 'know', 'what', 'kind', 'it', 'is', 'but', 'they', 'have', 'the', 'best', 'iced', 'tea']: actual: 0, expected: 1
+misclassified ['i', 'can', 'assure', 'you', 'that', 'you', 'wont', 'be', 'disappointed']: actual: 0, expected: 1
+misclassified ['furthermore', 'you', 'cant', 'even', 'find', 'hours', 'of', 'operation', 'on', 'the', 'website']: actual: 1, expected: 0
+misclassified ['no', 'complaints']: actual: 0, expected: 1
+misclassified ['if', 'youre', 'not', 'familiar', 'check', 'it', 'out']: actual: 0, expected: 1
+misclassified ['this', 'was', 'my', 'first', 'and', 'only', 'vegas', 'buffet', 'and', 'it', 'did', 'not', 'disappoint']: actual: 0, expected: 1
+misclassified ['the', 'one', 'down', 'note', 'is', 'the', 'ventilation', 'could', 'use', 'some', 'upgrading']: actual: 1, expected: 0
+misclassified ['third', 'the', 'cheese', 'on', 'my', 'friends', 'burger', 'was', 'cold']: actual: 1, expected: 0
+misclassified ['the', 'selection', 'of', 'food', 'was', 'not', 'the', 'best']: actual: 1, expected: 0
+misclassified ['it', 'was', 'attached', 'to', 'a', 'gas', 'station', 'and', 'that', 'is', 'rarely', 'a', 'good', 'sign']: actual: 1, expected: 0
+misclassified ['the', 'menu', 'had', 'so', 'much', 'good', 'stuff', 'on', 'it', 'i', 'could', 'not', 'decide']: actual: 0, expected: 1
+misclassified ['conclusion', 'very', 'filling', 'meals']: actual: 0, expected: 1
+misclassified ['the', 'pancake', 'was', 'also', 'really', 'good', 'and', 'pretty', 'large', 'at', 'that']: actual: 0, expected: 1
+misclassified ['id', 'rather', 'eat', 'airline', 'food', 'seriously']: actual: 1, expected: 0
+misclassified ['i', 'dont', 'each', 'much', 'pasta', 'but', 'i', 'love', 'the', 'homemade', 'hand', 'made', 'pastas', 'and', 'thin', 'pizzas', 'here']: actual: 0, expected: 1
+misclassified ['point', 'your', 'finger', 'at', 'any', 'item', 'on', 'the', 'menu', 'order', 'it', 'and', 'you', 'wont', 'be', 'disappointed']: actual: 0, expected: 1
+misclassified ['first', 'time', 'there', 'and', 'might', 'just', 'be', 'the', 'last']: actual: 1, expected: 0
+misclassified ['i', 'had', 'the', 'opportunity', 'today', 'to', 'sample', 'your', 'amazing', 'pizzas']: actual: 0, expected: 1
+misclassified ['not', 'even', 'a', 'hello', 'we', 'will', 'be', 'right', 'with', 'you']: actual: 1, expected: 0
+misclassified ['i', 'guess', 'maybe', 'we', 'went', 'on', 'an', 'off', 'night', 'but', 'it', 'was', 'disgraceful']: actual: 1, expected: 0
+misclassified ['however', 'my', 'recent', 'experience', 'at', 'this', 'particular', 'location', 'was', 'not', 'so', 'good']: actual: 1, expected: 0
+misclassified ['i', 'heart', 'this', 'place']: actual: 0, expected: 1
+misclassified ['i', 'will', 'never', 'go', 'back', 'to', 'this', 'place', 'and', 'will', 'never', 'ever', 'recommended', 'this', 'place', 'to', 'anyone']: actual: 1, expected: 0
+misclassified ['an', 'hour', 'seriously']: actual: 1, expected: 0
+misclassified ['the', 'pizza', 'tasted', 'old', 'super', 'chewy', 'in', 'not', 'a', 'good', 'way']: actual: 1, expected: 0
+misclassified ['as', 'for', 'the', 'service', 'im', 'a', 'fan', 'because', 'its', 'quick', 'and', 'youre', 'being', 'served', 'by', 'some', 'nice', 'folks']: actual: 0, expected: 1
+misclassified ['omg', 'i', 'felt', 'like', 'i', 'had', 'never', 'eaten', 'thai', 'food', 'until', 'this', 'dish']: actual: 0, expected: 1
+misclassified ['couldnt', 'ask', 'for', 'a', 'more', 'satisfying', 'meal']: actual: 0, expected: 1
+misclassified ['any', 'grandmother', 'can', 'make', 'a', 'roasted', 'chicken', 'better', 'than', 'this', 'one']: actual: 1, expected: 0
+misclassified ['same', 'evening', 'him', 'and', 'i', 'are', 'both', 'drastically', 'sick']: actual: 1, expected: 0
+misclassified ['tried', 'to', 'go', 'here', 'for', 'lunch', 'and', 'it', 'was', 'a', 'madhouse']: actual: 1, expected: 0
+misclassified ['it', 'was', 'just', 'not', 'a', 'fun', 'experience']: actual: 0, expected: 1
+misclassified ['very', 'convenient', 'since', 'we', 'were', 'staying', 'at', 'the', 'mgm']: actual: 0, expected: 1
+misclassified ['the', 'sweet', 'potato', 'tots', 'were', 'good', 'but', 'the', 'onion', 'rings', 'were', 'perfection', 'or', 'as', 'close', 'as', 'i', 'have', 'had']: actual: 0, expected: 1
+misclassified ['i', 'promise', 'they', 'wont', 'disappoint']: actual: 0, expected: 1
+misclassified ['as', 'a', 'sushi', 'lover', 'avoid', 'this', 'place', 'by', 'all', 'means']: actual: 1, expected: 0
+misclassified ['i', 'gave', 'it', '5', 'stars', 'then', 'and', 'im', 'giving', 'it', '5', 'stars', 'now']: actual: 0, expected: 1
+misclassified ['the', 'steak', 'was', 'amazingrge', 'fillet', 'relleno', 'was', 'the', 'best', 'seafood', 'plate', 'i', 'have', 'ever', 'had']: actual: 0, expected: 1
+misclassified ['i', 'work', 'in', 'the', 'hospitality', 'industry', 'in', 'paradise', 'valley', 'and', 'have', 'refrained', 'from', 'recommending', 'cibo', 'any', 'longer']: actual: 1, expected: 0
+misclassified ['that', 'said', 'our', 'mouths', 'and', 'bellies', 'were', 'still', 'quite', 'pleased']: actual: 0, expected: 1
+misclassified ['after', 'one', 'bite', 'i', 'was', 'hooked']: actual: 0, expected: 1
+misclassified ['one', 'nice', 'thing', 'was', 'that', 'they', 'added', 'gratuity', 'on', 'the', 'bill', 'since', 'our', 'party', 'was', 'larger', 'than', '6', 'or', '8', 'and', 'they', 'didnt', 'expect', 'more', 'tip', 'than', 'that']: actual: 0, expected: 1
+misclassified ['there', 'was', 'a', 'warm', 'feeling', 'with', 'the', 'service', 'and', 'i', 'felt', 'like', 'their', 'guest', 'for', 'a', 'special', 'treat']: actual: 0, expected: 1
+misclassified ['i', 'got', 'to', 'enjoy', 'the', 'seafood', 'salad', 'with', 'a', 'fabulous', 'vinegrette']: actual: 0, expected: 1
+misclassified ['the', 'wontons', 'were', 'thin', 'not', 'thick', 'and', 'chewy', 'almost', 'melt', 'in', 'your', 'mouth']: actual: 0, expected: 1
+misclassified ['the', 'service', 'was', 'poor', 'and', 'thats', 'being', 'nice']: actual: 1, expected: 0
+misclassified ['the', 'place', 'was', 'not', 'clean', 'and', 'the', 'food', 'oh', 'so', 'stale']: actual: 1, expected: 0
+misclassified ['one', 'of', 'the', 'few', 'places', 'in', 'phoenix', 'that', 'i', 'would', 'definately', 'go', 'back', 'to', 'again', '']: actual: 0, expected: 1
+misclassified ['so', 'in', 'a', 'nutshell', '1', 'the', 'restaraunt', 'smells', 'like', 'a', 'combination', 'of', 'a', 'dirty', 'fish', 'market', 'and', 'a', 'sewer']: actual: 1, expected: 0
+misclassified ['i', 'dont', 'have', 'very', 'many', 'words', 'to', 'say', 'about', 'this', 'place', 'but', 'it', 'does', 'everything', 'pretty', 'well']: actual: 0, expected: 1
+misclassified ['when', 'i', 'received', 'my', 'pita', 'it', 'was', 'huge', 'it', 'did', 'have', 'a', 'lot', 'of', 'meat', 'in', 'it', 'so', 'thumbs', 'up', 'there']: actual: 0, expected: 1
+misclassified ['im', 'super', 'pissd']: actual: 1, expected: 0
+misclassified ['i', 'can', 'say', 'that', 'the', 'desserts', 'were', 'yummy']: actual: 0, expected: 1
+misclassified ['do', 'yourself', 'a', 'favor', 'and', 'stay', 'away', 'from', 'this', 'dish']: actual: 1, expected: 0
+misclassified ['food', 'is', 'way', 'overpriced', 'and', 'portions', 'are', 'fucking', 'small']: actual: 1, expected: 0
+misclassified ['for', '40', 'bucks', 'a', 'head', 'i', 'really', 'expect', 'better', 'food']: actual: 1, expected: 0
+misclassified ['in', 'fact', 'im', 'going', 'to', 'round', 'up', 'to', '4', 'stars', 'just', 'because', 'she', 'was', 'so', 'awesome']: actual: 0, expected: 1
+misclassified ['i', 'found', 'a', 'six', 'inch', 'long', 'piece', 'of', 'wire', 'in', 'my', 'salsa']: actual: 1, expected: 0
+misclassified ['i', 'seriously', 'cannot', 'believe', 'that', 'the', 'owner', 'has', 'so', 'many', 'unexperienced', 'employees', 'that', 'all', 'are', 'running', 'around', 'like', 'chickens', 'with', 'their', 'heads', 'cut', 'off']: actual: 1, expected: 0
+misclassified ['this', 'place', 'is', 'disgusting']: actual: 1, expected: 0
+misclassified ['the', 'tables', 'outside', 'are', 'also', 'dirty', 'a', 'lot', 'of', 'the', 'time', 'and', 'the', 'workers', 'are', 'not', 'always', 'friendly', 'and', 'helpful', 'with', 'the', 'menu']: actual: 1, expected: 0
+misclassified ['the', 'only', 'reason', 'to', 'eat', 'here', 'would', 'be', 'to', 'fill', 'up', 'before', 'a', 'night', 'of', 'binge', 'drinking', 'just', 'to', 'get', 'some', 'carbs', 'in', 'your', 'stomach']: actual: 1, expected: 0
+misclassified ['insults', 'profound', 'deuchebaggery', 'and', 'had', 'to', 'go', 'outside', 'for', 'a', 'smoke', 'break', 'while', 'serving', 'just', 'to', 'solidify', 'it']: actual: 1, expected: 0
+misclassified ['i', 'would', 'avoid', 'this', 'place', 'if', 'you', 'are', 'staying', 'in', 'the', 'mirage']: actual: 1, expected: 0
+
+
+****************************************
+* RESULTS:
+*     Correct:   396
+*     Incorrect: 101
+*
+*     Accuracy:  0.7967806841046278
+****************************************
